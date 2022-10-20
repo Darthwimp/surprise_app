@@ -13,9 +13,9 @@ It has the following bugs:-
     3. The splash pages doesn't show up instantly, it has a black screen for like a few miliseconds before it loads up.
     4. After pressing the home button and going back to the homepage, the song keeps playing.
 
-# App_size: 96 megabytes
 
-    <h2> All the assets used, have been taken from the internet and none of them were created by me. The following are the links:- </h2>
+
+    All the assets used, have been taken from the internet and none of them were created by me. The following are the links:- 
     link for the surprise logo image: https://www.fbcironton.org/hp_wordpress/wp-content/uploads/2019/12/085188115_prevstill.jpeg
     link for the song used in the app: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
     link for the gif used in the app: https://media.tenor.com/v50sh2He1AAAAAAi/rickroll-rick.gif
